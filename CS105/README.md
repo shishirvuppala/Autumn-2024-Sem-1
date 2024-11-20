@@ -23,7 +23,7 @@ Problem solving session: Monday 7:00-8:00pm
 ### Dates
 
 **Pop Quiz 1** -  Aug 13th in class  
-**Quiz 1** - Aug 28th Wed 8.25am - 9:30am  
+**Quiz 1** - Aug 28th 8.25am - 9:30am  
 **Midsem** - Sep 21st 4:00pm - 6:00pm  
 **Pop quiz 2** -  Oct 8th in class  
 **Quiz 2** - Oct 18th 8:15am - 9:15am   
