@@ -19,7 +19,7 @@ P16 = Friday
 ## Evaluation
 Average of the 8 experiment(out of 60, rounded to nearest integer) + Marks obtained in final lab exam(out of 40, rounded to nearest integer) = Marks Obtained  
 
-Absolute grading  
+Grade guidelines(MAY BE SUBJECT TO CHANGE)
 91 - 100 = AA  
 86 - 90 = AB  
 81 - 85 = BB  
